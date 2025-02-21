@@ -12,7 +12,7 @@ Welcome to **Github Finder App**! A simple yet powerful app to search for GitHub
 
 ## 🖼️ Screenshots
 
-![App Screenshot 1](src/assets/images/github_finder.png)
+![App Screenshot 1](src/images/github_finder.png)
 
 ## 🚀 Getting Started
 
