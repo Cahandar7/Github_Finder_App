@@ -14,6 +14,12 @@ Welcome to **Github Finder App**! A simple yet powerful app to search for GitHub
 
 ![App Screenshot 1](src/images/git_finder_picture.png)
 
+## 📌 Built With
+
+- React
+- React Router
+- GitHub API
+
 ## 🚀 Getting Started
 
 Follow these simple steps to get started with the Github Finder App:
